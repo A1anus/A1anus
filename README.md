@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a1anus&label=Profile%20views&color=0e75b6&style=flat" alt="a1anus" /> </p>
 
-- 🔭 I’m currently working on [Automaster](https://github.com/A1anus/Automaster)
+- 🔭 I’m currently working on [Online_zapis_backend](https://github.com/tolparov/Online_zapis_backend)
 
 - 🌱 I’m currently learning **Spring**
 
